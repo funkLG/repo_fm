@@ -13,6 +13,10 @@
 
 **Teamname:**
 
+<img src="docs/team.svg" alt="Teamfoto" width="400">
+
+Ersetzen Sie den Platzhalter durch ein Teamfoto (z. B. `docs/team.jpg`) und passen Sie den Dateinamen im Link an.
+
 | Name | GitHub |
 |------|--------|
 | _Vorname Nachname_ | `@handle` |

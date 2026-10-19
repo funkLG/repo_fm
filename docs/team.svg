@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 300" width="600" height="300" role="img" aria-label="Platzhalter Teamfoto mit drei Personen">
+  <!-- Platzhalter-Grafik, gemeinfrei (CC0). Durch ein eigenes Teamfoto ersetzen. -->
+  <rect width="600" height="300" rx="16" fill="#e8eef4"/>
+  <ellipse cx="300" cy="300" rx="280" ry="40" fill="#d5dfe9"/>
+
+  <!-- Person links -->
+  <g fill="#7a9cbf">
+    <circle cx="170" cy="118" r="38"/>
+    <path d="M90 300 C90 220 120 180 170 180 C220 180 250 220 250 300 Z"/>
+  </g>
+
+  <!-- Person rechts -->
+  <g fill="#9bb37a">
+    <circle cx="430" cy="118" r="38"/>
+    <path d="M350 300 C350 220 380 180 430 180 C480 180 510 220 510 300 Z"/>
+  </g>
+
+  <!-- Person Mitte (vorne) -->
+  <g fill="#d9a066">
+    <circle cx="300" cy="105" r="44"/>
+    <path d="M205 300 C205 210 240 165 300 165 C360 165 395 210 395 300 Z"/>
+  </g>
+
+  <text x="300" y="40" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#5a6b7d">Teamfoto</text>
+</svg>
