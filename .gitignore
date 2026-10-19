@@ -1,0 +1,45 @@
+# Personenbezogene Rohdaten niemals committen (siehe daten/README.md)
+daten/rohdaten/*
+!daten/rohdaten/.gitkeep
+
+# Audio- und Videoaufnahmen
+*.mp3
+*.m4a
+*.wav
+*.mp4
+*.mov
+
+# Office-Sperrdateien und Betriebssystem
+~$*
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editoren / IDEs
+.idea/
+.vscode/
+
+# LaTeX-Hilfsdateien
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.toc
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# MAXQDA-Sicherungen
+*.mx*bak
